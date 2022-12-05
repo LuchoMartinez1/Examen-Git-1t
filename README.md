@@ -12,6 +12,7 @@ git commit -m "creando proyecto base"
     Como no me dejaba conectar con el repositorio remoto hice dos commits en uno tras hacer una copia y luego hago pull request.
 
 4. Pusheo valor_referencia
+
 ![](img/2.png)
 ```bash
 git push -u origin master
